@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis Knowledge Galaxy",
+  "description": "Voice-driven 3D second-brain butler with a live markdown knowledge galaxy, sentence-chunked neural speech, local-first architecture, live note capture, and preflight latency diagnostics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
